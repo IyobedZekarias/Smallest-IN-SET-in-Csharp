@@ -1,0 +1,7 @@
+C:\Users\Iyobed\source\repos\psuedoGoogle Interview - smallest in set\psuedoGoogle Interview - smallest in set\bin\Debug\psuedoGoogle Interview - smallest in set.exe.config
+C:\Users\Iyobed\source\repos\psuedoGoogle Interview - smallest in set\psuedoGoogle Interview - smallest in set\bin\Debug\psuedoGoogle Interview - smallest in set.exe
+C:\Users\Iyobed\source\repos\psuedoGoogle Interview - smallest in set\psuedoGoogle Interview - smallest in set\bin\Debug\psuedoGoogle Interview - smallest in set.pdb
+C:\Users\Iyobed\source\repos\psuedoGoogle Interview - smallest in set\psuedoGoogle Interview - smallest in set\obj\Debug\psuedoGoogle Interview - smallest in set.csprojAssemblyReference.cache
+C:\Users\Iyobed\source\repos\psuedoGoogle Interview - smallest in set\psuedoGoogle Interview - smallest in set\obj\Debug\psuedoGoogle Interview - smallest in set.csproj.CoreCompileInputs.cache
+C:\Users\Iyobed\source\repos\psuedoGoogle Interview - smallest in set\psuedoGoogle Interview - smallest in set\obj\Debug\psuedoGoogle Interview - smallest in set.exe
+C:\Users\Iyobed\source\repos\psuedoGoogle Interview - smallest in set\psuedoGoogle Interview - smallest in set\obj\Debug\psuedoGoogle Interview - smallest in set.pdb
