@@ -1,4 +1,4 @@
-# Smallest-IN-SET
+# Smallest-IN-SET in C#
 
 This is a c# program that will find the smallest number in a set of numbers while prioritizing run time
 
